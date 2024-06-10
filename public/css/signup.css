@@ -1,0 +1,259 @@
+.sign-up {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.sign-up .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 1024px;
+}
+
+.sign-up .overlap {
+    height: 1024px;
+    background-image: url(./img/6060230-1.png);
+    background-size: 100% 100%;
+}
+
+.sign-up .group {
+    position: relative;
+    width: 594px;
+    height: 783px;
+    top: 121px;
+    left: 671px;
+}
+
+.sign-up .overlap-group {
+    position: relative;
+    width: 578px;
+    height: 783px;
+    background-color: #ffffff;
+    border-radius: 35px;
+}
+
+.sign-up .div-wrapper {
+    position: absolute;
+    width: 401px;
+    height: 63px;
+    top: 326px;
+    left: 88px;
+    background-color: #efefef;
+    border-radius: 15px;
+}
+
+.sign-up .text-wrapper {
+    position: absolute;
+    width: 134px;
+    top: 20px;
+    left: 24px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .div {
+    position: absolute;
+    width: 402px;
+    height: 61px;
+    top: 410px;
+    left: 88px;
+    background-color: #efefef;
+    border-radius: 15px;
+}
+
+.sign-up .text-wrapper-2 {
+    position: absolute;
+    width: 125px;
+    top: 19px;
+    left: 24px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .overlap-2 {
+    position: absolute;
+    width: 399px;
+    height: 75px;
+    top: 178px;
+    left: 92px;
+    background-color: #fffbfb;
+    border-radius: 50px;
+    border: 2px solid;
+    border-color: #d9d9d9;
+}
+
+.sign-up .text-wrapper-3 {
+    position: absolute;
+    width: 220px;
+    top: 25px;
+    left: 132px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .google-g-logo {
+    position: absolute;
+    width: 40px;
+    height: 41px;
+    top: 13px;
+    left: 61px;
+    object-fit: cover;
+}
+
+.sign-up .text-wrapper-4 {
+    position: absolute;
+    width: 28px;
+    top: 271px;
+    left: 275px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .line {
+    left: 92px;
+    position: absolute;
+    width: 167px;
+    height: 1px;
+    top: 289px;
+    object-fit: cover;
+}
+
+.sign-up .img {
+    left: 322px;
+    position: absolute;
+    width: 167px;
+    height: 1px;
+    top: 289px;
+    object-fit: cover;
+}
+
+.sign-up .overlap-group-wrapper {
+    position: absolute;
+    width: 398px;
+    height: 73px;
+    top: 543px;
+    left: 94px;
+}
+
+.sign-up .overlap-group-2 {
+    position: relative;
+    width: 396px;
+    height: 73px;
+    background-color: #25be5b;
+    border-radius: 50px;
+}
+
+.sign-up .text-wrapper-5 {
+    width: 220px;
+    height: 36px;
+    top: 24px;
+    left: 85px;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+}
+
+.sign-up .group-2 {
+    position: absolute;
+    width: 398px;
+    height: 73px;
+    top: 630px;
+    left: 94px;
+}
+
+.sign-up .overlap-3 {
+    position: relative;
+    width: 396px;
+    height: 73px;
+    background-color: #1e8c45;
+    border-radius: 50px;
+}
+
+.sign-up .overlap-4 {
+    position: absolute;
+    width: 245px;
+    height: 32px;
+    top: 713px;
+    left: 163px;
+}
+
+.sign-up .p {
+    position: absolute;
+    width: 243px;
+    top: -15px;
+    left: 0;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .text-wrapper-6 {
+    position: absolute;
+    width: 59px;
+    top: 0;
+    left: 187px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #458efb;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.sign-up .text-wrapper-7 {
+    position: absolute;
+    width: 142px;
+    top: 479px;
+    left: 340px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #458efb;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.sign-up .text-wrapper-8 {
+    width: 578px;
+    top: 40px;
+    left: 0;
+    color: #1f1e17;
+    font-size: 42px;
+    line-height: 110px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+}

@@ -1,0 +1,345 @@
+.heading-2 {
+    position: absolute;
+  width: 544px;
+  height: 115px;
+  top: 114px;
+  left: 668px;
+  font-family: "Manrope-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+.sign-up-vendor-child {
+    position: absolute;
+    top: 647px;
+    left: 408px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.sign-up-vendor-item {
+    position: absolute;
+    top: 793px;
+    left: 408px;
+    border-radius: 15px 0px 0px 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.no-hp {
+    position: absolute;
+    top: 597px;
+    left: 408px;
+    display: inline-block;
+    width: 134.1px;
+    height: 38.6px;
+}
+.cth-081 {
+    position: absolute;
+    top: 660px;
+    left: 424px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-inner {
+    position: absolute;
+    top: 354px;
+    left: 408px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.nama-lengkap {
+    position: absolute;
+    top: 304px;
+    left: 408px;
+    display: inline-block;
+    width: 250px;
+    height: 39px;
+}
+.cth-ani {
+    position: absolute;
+    top: 367px;
+    left: 424px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 498px;
+    left: 408px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.email {
+    position: absolute;
+    top: 448px;
+    left: 408px;
+    display: inline-block;
+    width: 271px;
+    height: 39px;
+}
+.cth-xxxgmailcom {
+    position: absolute;
+    top: 511px;
+    left: 424px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child1 {
+    position: absolute;
+    top: 354px;
+    left: 1071px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.alamat-lengkap {
+    position: absolute;
+    top: 304px;
+    left: 1071px;
+    display: inline-block;
+    width: 271px;
+    height: 39px;
+}
+.cth-jl {
+    position: absolute;
+    top: 367px;
+    left: 1087px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child2 {
+    position: absolute;
+    top: 498px;
+    left: 1071px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.provinsi {
+    position: absolute;
+    top: 448px;
+    left: 1071px;
+    display: inline-block;
+    width: 134.1px;
+    height: 38.6px;
+}
+.cth-jawa {
+    position: absolute;
+    top: 511px;
+    left: 1087px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child3 {
+    position: absolute;
+    top: 793px;
+    left: 1071px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.kecamatan {
+    position: absolute;
+    top: 743px;
+    left: 1071px;
+    display: inline-block;
+    width: 271px;
+    height: 39px;
+}
+.cth-jl1 {
+    position: absolute;
+    top: 806px;
+    left: 1087px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child4 {
+    position: absolute;
+    top: 647px;
+    left: 1071px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.kota {
+    position: absolute;
+    top: 597px;
+    left: 1071px;
+    display: inline-block;
+    width: 271px;
+    height: 39px;
+}
+.cth-kota {
+    position: absolute;
+    top: 660px;
+    left: 1087px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child5 {
+    position: absolute;
+    top: 937px;
+    left: 1071px;
+    border-radius: 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.kode-pos {
+    position: absolute;
+    top: 887px;
+    left: 1071px;
+    display: inline-block;
+    width: 134.1px;
+    height: 38.6px;
+}
+.cth-12345 {
+    position: absolute;
+    top: 950px;
+    left: 1087px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    width: 217px;
+    height: 39px;
+}
+.sign-up-vendor-child6 {
+    position: absolute;
+    top: 793px;
+    left: 809px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #f8f8f8;
+    border: 1px solid #878680;
+    box-sizing: border-box;
+    width: 127px;
+    height: 63px;
+}
+.foto-ktp {
+    position: absolute;
+    top: 743px;
+    left: 408px;
+    display: inline-block;
+    width: 134.1px;
+    height: 38.6px;
+}
+.pilih-file {
+    position: absolute;
+    top: 805px;
+    left: 803px;
+    font-size: 20px;
+    color: #1f1e17;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 138px;
+    height: 39px;
+}
+.sign-up-vendor-child7 {
+    position: absolute;
+    top: 937px;
+    left: 408px;
+    border-radius: 15px 0px 0px 15px;
+    background-color: #efefef;
+    width: 401.2px;
+    height: 63.3px;
+}
+.sign-up-vendor-child8 {
+    position: absolute;
+    top: 937px;
+    left: 809px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #f8f8f8;
+    border: 1px solid #878680;
+    box-sizing: border-box;
+    width: 127px;
+    height: 63px;
+}
+.izin-usaha {
+    position: absolute;
+    top: 887px;
+    left: 408px;
+    display: inline-block;
+    width: 165px;
+    height: 39px;
+}
+.pilih-file1 {
+    position: absolute;
+    top: 949px;
+    left: 803px;
+    font-size: 20px;
+    color: #1f1e17;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 138px;
+    height: 39px;
+}
+.sign-up-vendor-child9 {
+    position: absolute;
+    top: 1072px;
+    left: 1219px;
+    border-radius: 50px;
+    background-color: #1e8c45;
+    width: 253px;
+    height: 73px;
+}
+.simpan {
+    position: absolute;
+    top: 1090px;
+    left: 1235px;
+    font-size: 26px;
+    display: flex;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    height: 36px;
+}
+.sign-up-vendor {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1293px;
+    text-align: left;
+    font-size: 30px;
+    color: #a9a9a9;
+    font-family: Manrope;
+}
+
