@@ -1,0 +1,231 @@
+.login-vendor {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-vendor .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 1024px;
+}
+
+.login-vendor .overlap {
+    position: relative;
+    height: 1024px;
+    background-image: url(./img/6060230-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.login-vendor .rectangle {
+    position: absolute;
+    width: 578px;
+    height: 783px;
+    top: 121px;
+    left: 671px;
+    background-color: #ffffff;
+    border-radius: 35px;
+}
+
+.login-vendor .div {
+    position: absolute;
+    width: 401px;
+    height: 63px;
+    top: 475px;
+    left: 759px;
+    background-color: #efefef;
+    border-radius: 15px;
+}
+
+.login-vendor .rectangle-2 {
+    position: absolute;
+    width: 402px;
+    height: 61px;
+    top: 559px;
+    left: 759px;
+    background-color: #efefef;
+    border-radius: 15px;
+}
+
+.login-vendor .text-wrapper {
+    position: absolute;
+    width: 134px;
+    top: 495px;
+    left: 783px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .text-wrapper-2 {
+    position: absolute;
+    width: 125px;
+    top: 577px;
+    left: 783px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .rectangle-3 {
+    position: absolute;
+    width: 399px;
+    height: 75px;
+    top: 313px;
+    left: 763px;
+    background-color: #fffbfb;
+    border-radius: 50px;
+    border: 2px solid;
+    border-color: #d9d9d9;
+}
+
+.login-vendor .text-wrapper-3 {
+    position: absolute;
+    width: 220px;
+    top: 339px;
+    left: 905px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .text-wrapper-4 {
+    position: absolute;
+    width: 28px;
+    top: 405px;
+    left: 946px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .google-g-logo {
+    position: absolute;
+    width: 40px;
+    height: 41px;
+    top: 331px;
+    left: 825px;
+    object-fit: cover;
+}
+
+.login-vendor .line {
+    left: 763px;
+    position: absolute;
+    width: 167px;
+    height: 1px;
+    top: 424px;
+    object-fit: cover;
+}
+
+.login-vendor .img {
+    left: 993px;
+    position: absolute;
+    width: 167px;
+    height: 1px;
+    top: 424px;
+    object-fit: cover;
+}
+
+.login-vendor .group {
+    position: absolute;
+    width: 398px;
+    height: 73px;
+    top: 716px;
+    left: 765px;
+}
+
+.login-vendor .overlap-group {
+    position: relative;
+    width: 396px;
+    height: 73px;
+    background-color: #1e8c45;
+    border-radius: 50px;
+}
+
+.login-vendor .text-wrapper-5 {
+    position: absolute;
+    width: 80px;
+    height: 36px;
+    top: 25px;
+    left: 158px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .p {
+    position: absolute;
+    width: 243px;
+    top: 785px;
+    left: 850px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8a8a8;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .text-wrapper-6 {
+    position: absolute;
+    width: 59px;
+    top: 799px;
+    left: 1032px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #458efb;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.login-vendor .text-wrapper-7 {
+    position: absolute;
+    width: 142px;
+    top: 627px;
+    left: 1011px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #458efb;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.login-vendor .text-wrapper-8 {
+    position: absolute;
+    width: 578px;
+    top: 169px;
+    left: 671px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #1f1e17;
+    font-size: 46px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 110px;
+    white-space: nowrap;
+}
