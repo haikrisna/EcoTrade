@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Deskripsi singkat tentang halaman web.">
+    <title>Halaman Utama</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <style>
+        .navbar-custom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        .search-container {
+            display: flex;
+            justify-content: center;
+            flex-grow: 1;
+        }
+        .notification-container {
+            display: flex;
+            justify-content: flex-end;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="C:/GEMASTIK/Frontend/1/assets/icon/logo.svg" alt="Logo" style="width: 200px; height: 63.31px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-custom">
+                    <div class="search-container">
+                        <form class="d-flex">
+                            <input class="form-control me-2" type="search" placeholder="Cari" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Cari</button>
+                        </form>
+                    </div>
+                    <div class="notification-container">
+                        <img src="C:/GEMASTIK/Frontend/1/assets/icon/notification.svg" alt="Notifikasi" style="width: 45px; height: 45px;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- End of Navbar -->
+</body>
+</html>
