@@ -4,7 +4,7 @@
   	<meta charset="utf-8">
   	<meta name="viewport" content="initial-scale=1, width=device-width">
   	
-  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet"  href="css/dashboardvendor.css" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@500;600;700&display=swap" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source Serif Pro:wght@700&display=swap" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap" />
@@ -23,7 +23,7 @@
         				<div class="line">
         				</div>
       			</div>
-      			<img class="frame-child" alt="" src="Group 46.svg">
+      			<img class="frame-child" alt="" src="img/arrowtorgiht.png">
       			
     		</div>
     		<div class="details-rental-group">
@@ -36,15 +36,15 @@
         				</div>
         				<div class="line">
         				</div>
-        				<img class="details-rental-child" alt="" src="Group 46.svg">
+        				<img class="details-rental-child" alt="" src="img/arrowtoright.png">
         				
       			</div>
       			<div class="jl-kokrosono-no">Jl. Kokrosono No 17, Semarang</div>
-      			<img class="frame-item" alt="" src="Star 1.svg">
+      			<img class="frame-item" alt="" src="img/Star.png">
       			
       			<div class="div">|   4.8</div>
       			<div class="div1">( 15      )</div>
-      			<img class="frame-inner" alt="" src="Group 427320622.png">
+      			<img class="frame-inner" alt="" src="img/person.png">
       			
     		</div>
     		<div class="details-rental2">
@@ -54,7 +54,7 @@
         				<b class="pesanan-masuk">Pesanan Masuk</b>
         				<div class="car-parent">
           					<div class="car">
-            						<img class="image-1-icon" alt="" src="image 1.png">
+            						<img class="image-1-icon" alt="" src="img/sapi.png">
             						
           					</div>
           					<div class="car-name">
@@ -76,7 +76,7 @@
           					<div class="div3">+ 1</div>
         				</div>
         				<div class="star-parent">
-          					<img class="group-inner" alt="" src="Star 1.svg">
+          					<img class="group-inner" alt="" src="img/Star.png">
           					
           					<div class="type-parent">
             						<div class="type1">
@@ -87,7 +87,7 @@
               							<div class="parent">
                 								<div class="div4">4.7</div>
                 								<div class="div5">( 10      )</div>
-                								<img class="group-icon" alt="" src="Group 427320622.png">
+                								<img class="group-icon" alt="" src="img/person.png">
                 								
               							</div>
             						</div>
@@ -116,7 +116,7 @@
           					</div>
           					<div class="tolak">Tolak</div>
         				</div>
-        				<img class="image-4-icon" alt="" src="image 4.png">
+        				<img class="image-4-icon" alt="" src="img/map.png">
         				
       			</div>
       			<div class="lihat-semua">Lihat  semua</div>
@@ -126,7 +126,7 @@
         				<div class="recent-transaction-1-parent">
           					<div class="recent-transaction-1">
             						<div class="car1">
-              							<img class="image-1-icon" alt="" src="image 1.png">
+              							<img class="image-1-icon" alt="" src="img/sapi.png">
               							
             						</div>
             						<div class="car-name1">
@@ -156,12 +156,12 @@
         				</div>
         				<div class="group-parent1">
           					<div class="star-group">
-            						<img class="star-icon" alt="" src="Star 1.svg">
+            						<img class="star-icon" alt="" src="img/Star.png">
             						
             						<div class="div6">|   4.7</div>
             						<div class="div7">( 10      )</div>
           					</div>
-          					<img class="group-child4" alt="" src="Group 427320622.png">
+          					<img class="group-child4" alt="" src="img/person.png">
           					
         				</div>
       			</div>
@@ -170,7 +170,7 @@
       			<div class="recent-transaction-2-parent">
         				<div class="recent-transaction-2">
           					<div class="car2">
-            						<img class="image-2-icon" alt="" src="image 2.png">
+            						<img class="image-2-icon" alt="" src="img/b3.png">
             						
           					</div>
           					<div class="car-name2">
@@ -199,12 +199,12 @@
         				</div>
         				<div class="group-parent2">
           					<div class="star-container">
-            						<img class="group-child7" alt="" src="Star 1.svg">
+            						<img class="group-child7" alt="" src="img/Star.png">
             						
             						<div class="div8">|   4.8</div>
             						<div class="div9">( 15      )</div>
           					</div>
-          					<img class="group-child8" alt="" src="Group 427320622.png">
+          					<img class="group-child8" alt="" src="img/person.png">
           					
         				</div>
       			</div>
@@ -213,17 +213,17 @@
       			<div class="group-parent3">
         				<div class="group-parent4">
           					<div class="star-group">
-            						<img class="star-icon" alt="" src="Star 1.svg">
+            						<img class="star-icon" alt="" src="img/Star.png">
             						
             						<div class="div6">|   4.7</div>
             						<div class="div7">( 10      )</div>
           					</div>
-          					<img class="group-child4" alt="" src="Group 427320622.png">
+          					<img class="group-child4" alt="" src="img/person.png">
           					
         				</div>
         				<div class="recent-transaction-3">
           					<div class="car3">
-            						<img class="image-3-icon" alt="" src="image 3.png">
+            						<img class="image-3-icon" alt="" src="img/resto.png">
             						
           					</div>
           					<div class="car-name3">
@@ -258,7 +258,7 @@
         				<div class="line">
         				</div>
       			</div>
-      			<img class="frame-child1" alt="" src="Group 46.svg">
+      			<img class="frame-child1" alt="" src="img/arrowtoright.png">
       			
     		</div>
     		<div class="details-rental7">
@@ -272,7 +272,7 @@
         				</div>
         				<b class="dalam-proses">Dalam Proses</b>
         				<div class="star-parent2">
-          					<img class="group-inner" alt="" src="Star 1.svg">
+          					<img class="group-inner" alt="" src="img/Star.png">
           					
           					<div class="type-parent">
             						<div class="type1">
@@ -283,7 +283,7 @@
               							<div class="parent">
                 								<div class="div4">4.7</div>
                 								<div class="div5">( 10      )</div>
-                								<img class="group-icon" alt="" src="Group 427320622.png">
+                								<img class="group-icon" alt="" src="img/person.png">
                 								
               							</div>
             						</div>
@@ -296,7 +296,7 @@
         				</div>
         				<div class="car-group">
           					<div class="car">
-            						<img class="image-1-icon" alt="" src="image 1.png">
+            						<img class="image-1-icon" alt="" src="img/sapi.png">
             						
           					</div>
           					<div class="car-name">
@@ -339,10 +339,10 @@
       			<div class="container">
         				<div class="div16">50%</div>
         				<div class="dari-bulan-lalu">dari bulan lalu</div>
-        				<img class="arrow-icon" alt="" src="Arrow 1.svg">
+        				<img class="arrow-icon" alt="" src="img/Arrow.png">
         				
       			</div>
-      			<img class="image-7-icon" alt="" src="image 7.png">
+      			<img class="image-7-icon" alt="" src="img/pengeluaran.png">
       			
     		</div>
     		<div class="details-rental9">
@@ -352,7 +352,7 @@
       			<div class="container">
         				<div class="div16">30%</div>
         				<div class="dari-bulan-lalu">dari bulan lalu</div>
-        				<img class="arrow-icon" alt="" src="Arrow 1.svg">
+        				<img class="arrow-icon" alt="" src="img/Arrow.png">
         				
       			</div>
       			<b class="b">35</b>
@@ -364,7 +364,7 @@
       			<div class="container">
         				<div class="div16">40%</div>
         				<div class="dari-bulan-lalu">dari bulan lalu</div>
-        				<img class="arrow-icon" alt="" src="Arrow 1.svg">
+        				<img class="arrow-icon" alt="" src="img/Arrow.png">
         				
       			</div>
       			<b class="kg5">200 kg</b>
@@ -376,7 +376,7 @@
       			<div class="parent3">
         				<div class="div16">10%</div>
         				<div class="dari-bulan-lalu3">dari bulan lalu</div>
-        				<img class="arrow-icon" alt="" src="Arrow 1.svg">
+        				<img class="arrow-icon" alt="" src="img/Arrow.png">
         				
       			</div>
       			<b class="rp-2000000">Rp 20.000,00</b>
@@ -396,9 +396,9 @@
       			<div class="button">
       			</div>
       			<div class="search-something-here">Search something here</div>
-      			<img class="search-normal-icon" alt="" src="search-normal.svg">
+      			<img class="search-normal-icon" alt="" src="img/search.png">
       			
-      			<img class="vuesaxlinearfilter-icon" alt="" src="vuesax/linear/filter.svg">
+      			<img class="vuesaxlinearfilter-icon" alt="" src="img/filter.png">
       			
     		</div>
     		<div class="nav-bar-top">
@@ -410,9 +410,9 @@
         				<div class="button">
         				</div>
         				<div class="search-something-here">Search something here</div>
-        				<img class="search-normal-icon" alt="" src="search-normal.svg">
+        				<img class="search-normal-icon" alt="" src="img/search.png">
         				
-        				<img class="vuesaxlinearfilter-icon" alt="" src="vuesax/linear/filter.svg">
+        				<img class="vuesaxlinearfilter-icon" alt="" src="img/filter.png">
         				
       			</div>
       			<img class="image-106-icon" alt="" src="image 106.png">
@@ -426,27 +426,27 @@
           					<div class="m-a-i">M A I N  M E N U</div>
           					<div class="main-menu1">
             						<div class="dashboard">
-              							<img class="home-icon" alt="" src="home.svg">
+              							<img class="home-icon" alt="" src="img/home.png">
               							
               							<div class="dashboard1">Dashboard</div>
             						</div>
             						<div class="house" id="houseContainer">
-              							<img class="home-icon" alt="" src="vuesax/linear/car.svg">
+              							<img class="home-icon" alt="" src="img/car.png">
               							
               							<div class="pesanan1">Pesanan</div>
             						</div>
             						<div class="house" id="insightContainer">
-              							<img class="home-icon" alt="" src="vuesax/linear/chart.svg">
+              							<img class="home-icon" alt="" src="img/statistik.png">
               							
               							<div class="statistik">Statistik</div>
             						</div>
             						<div class="house" id="orderContainer">
-              							<img class="home-icon" alt="" src="empty-wallet-change.svg">
+              							<img class="home-icon" alt="" src="img/wallet.png">
               							
               							<div class="dompet">Dompet</div>
             						</div>
             						<div class="house" id="frameContainer">
-              							<img class="home-icon" alt="" src="vuesax/linear/calendar.svg">
+              							<img class="home-icon" alt="" src="img/calendar.png">
               							
               							<div class="riwayat-transaksi">Riwayat Transaksi</div>
             						</div>
@@ -456,7 +456,7 @@
           					<div class="p-r-e">P R E F E R E N C E S</div>
           					<div class="preferences1" id="preferencesContainer">
             						<div class="settings">
-              							<img class="home-icon" alt="" src="setting.svg">
+              							<img class="home-icon" alt="" src="img/setting.png">
               							
               							<div class="settings1">Settings</div>
             						</div>
@@ -464,7 +464,7 @@
         				</div>
       			</div>
       			<div class="logout" id="logoutContainer">
-        				<img class="home-icon" alt="" src="logout.svg">
+        				<img class="home-icon" alt="" src="img/logout.png">
         				
         				<div class="log-out">Log Out</div>
       			</div>
