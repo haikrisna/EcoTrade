@@ -415,7 +415,7 @@
         				<img class="vuesaxlinearfilter-icon" alt="" src="img/filter.png">
         				
       			</div>
-      			<img class="image-106-icon" alt="" src="image 106.png">
+      			<img class="image-106-icon" alt="" src="img/EcoTrade.png">
       			
     		</div>
     		<div class="nav-bar">
