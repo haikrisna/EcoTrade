@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+.navbar-custom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    position: relative;
+}
+.notification-container {
+    display: flex;
+    justify-content: flex-end;
+}
+.search-container .form-control {
+    width: 492px;
+    height: 44px;
+    border-radius: 70px;
+    padding-left: 50px;
+    background-image: url('C:/GEMASTIK/Frontend/Permintaan Pesanan User/assets/icon/NavBar/search.svg');
+    background-repeat: no-repeat;
+    background-position: 15px center;
