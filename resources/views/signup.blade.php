@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="globals.css" />
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="css/globals.css" />
+        <link rel="stylesheet" href="css/signup.css" />
     </head>
     <body>
         <div class="sign-up">
@@ -15,7 +15,7 @@
                             <div class="div"><div class="text-wrapper-2">Password</div></div>
                             <div class="overlap-2">
                                 <div class="text-wrapper-3">Sign Up with Google</div>
-                                <img class="google-g-logo" src="img/google-g-logo-1.png" />
+                                <img class="google-g-logo" src="img/google.png" />
                             </div>
                             <div class="text-wrapper-4">or</div>
                             <img class="line" src="img/line-5.svg" />
