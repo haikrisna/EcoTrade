@@ -17,34 +17,34 @@
   	
   	<div class="pesanan-masuk-vendor">
     		<div class="nav-bar">
-      			<img class="active-icon" alt="" src="Active.svg">
+      			<img class="active-icon" alt="" src="img/Active.png">
       			
       			<div class="side-menu">
         				<div class="main-menu">
           					<div class="m-a-i">M A I N  M E N U</div>
           					<div class="main-menu1">
             						<div class="dashboard" id="dashboardContainer">
-              							<img class="home-icon" alt="" src="home.svg">
+              							<img class="home-icon" alt="" src="img/home.png">
               							
               							<div class="dashboard1">Dashboard</div>
             						</div>
             						<div class="house">
-              							<img class="home-icon" alt="" src="vuesax/linear/car.svg">
+              							<img class="home-icon" alt="" src="img/car.png">
               							
               							<div class="pesanan">Pesanan</div>
             						</div>
             						<div class="dashboard" id="insightContainer">
-              							<img class="home-icon" alt="" src="vuesax/linear/chart.svg">
+              							<img class="home-icon" alt="" src="img/statistik.png">
               							
               							<div class="statistik">Statistik</div>
             						</div>
             						<div class="dashboard" id="orderContainer">
-              							<img class="home-icon" alt="" src="empty-wallet-change.svg">
+              							<img class="home-icon" alt="" src="img/wallet.png">
               							
               							<div class="dompet">Dompet</div>
             						</div>
             						<div class="dashboard" id="frameContainer">
-              							<img class="home-icon" alt="" src="vuesax/linear/calendar.svg">
+              							<img class="home-icon" alt="" src="img/calendar.png">
               							
               							<div class="riwayat-transaksi">Riwayat Transaksi</div>
             						</div>
@@ -54,7 +54,7 @@
           					<div class="p-r-e">P R E F E R E N C E S</div>
           					<div class="preferences1" id="preferencesContainer">
             						<div class="settings">
-              							<img class="home-icon" alt="" src="setting.svg">
+              							<img class="home-icon" alt="" src="img/setting.png">
               							
               							<div class="settings1">Settings</div>
             						</div>
@@ -62,7 +62,7 @@
         				</div>
       			</div>
       			<div class="logout" id="logoutContainer">
-        				<img class="home-icon" alt="" src="logout.svg">
+        				<img class="home-icon" alt="" src="img/logout.png">
         				
         				<div class="log-out">Log Out</div>
       			</div>
@@ -73,20 +73,20 @@
     		<div class="pesanan-masuk-vendor-item">
     		</div>
     		<div class="map-maker-sekaran-50229-gun-parent">
-      			<img class="map-maker-sekaran-50229-gun" alt="" src="🌎 Map Maker: Sekaran, 50229, Gunung Pati, Semarang, Central Java, Indonesia (Standard).png">
+      			<img class="map-maker-sekaran-50229-gun" alt="" src="img/map2.png">
       			
       			<div class="type">
         				<div class="jenis-limbah">Jenis Limbah</div>
       			</div>
       			<div class="star-parent">
-        				<img class="group-child" alt="" src="Star 1.svg">
+        				<img class="group-child" alt="" src="img/Star.png">
         				
         				<div class="zoey-glenca-parent">
           					<b class="zoey-glenca">Zoey Glenca</b>
           					<div class="parent">
             						<div class="div">4.7</div>
             						<div class="div1">( 10      )</div>
-            						<img class="group-item" alt="" src="Group 427320622.png">
+            						<img class="group-item" alt="" src="img/person.png">
             						
           					</div>
         				</div>
@@ -154,11 +154,11 @@
       			<div class="group-child1">
       			</div>
       			<b class="kotoran-ternak">Kotoran Ternak</b>
-      			<img class="user-03c-icon" alt="" src="User 03C.svg">
+      			<img class="user-03c-icon" alt="" src="img/userprofil.png">
       			
       			<div class="toyota-fortuner-parent">
         				<b class="toyota-fortuner">Open on </b>
-        				<img class="group-icon" alt="" src="Group 427320636.png">
+        				<img class="group-icon" alt="" src="img/person.png">
         				
       			</div>
     		</div>
@@ -168,7 +168,7 @@
       			<div class="tolak">Tolak</div>
     		</div>
     		<div class="map-maker-sekaran-50229-gun-group">
-      			<img class="map-maker-sekaran-50229-gun" alt="" src="🌎 Map Maker: Sekaran, 50229, Gunung Pati, Semarang, Central Java, Indonesia (Standard).png">
+      			<img class="map-maker-sekaran-50229-gun" alt="" src="img/map2.png">
       			
       			<div class="type">
         				<div class="jenis-limbah">Jenis Limbah</div>
@@ -178,11 +178,11 @@
           					<b class="zoey-glenca">Callysta Putri</b>
           					<div class="group-wrapper3">
             						<div class="star-group">
-              							<img class="star-icon" alt="" src="Star 1.svg">
+              							<img class="star-icon" alt="" src="img/Star.png">
               							
               							<div class="div2">4.7</div>
               							<div class="div1">( 10      )</div>
-              							<img class="group-item" alt="" src="Group 427320622.png">
+              							<img class="group-item" alt="" src="img/person.png">
               							
             						</div>
           					</div>
@@ -246,11 +246,11 @@
       			<div class="group-child1">
       			</div>
       			<b class="kotoran-ternak">Kotoran Ternak</b>
-      			<img class="user-03c-icon" alt="" src="User 03C.svg">
+      			<img class="user-03c-icon" alt="" src="img/userprofil.png">
       			
       			<div class="toyota-fortuner-parent">
         				<b class="toyota-fortuner">Open on </b>
-        				<img class="group-icon" alt="" src="Group 427320636.png">
+        				<img class="group-icon" alt="" src="img/person.png">
         				
       			</div>
     		</div>
@@ -287,12 +287,12 @@
         				<div class="button">
         				</div>
         				<div class="search-something-here">Search something here</div>
-        				<img class="search-normal-icon" alt="" src="search-normal.svg">
+        				<img class="search-normal-icon" alt="" src="img/serach.png">
         				
-        				<img class="vuesaxlinearfilter-icon" alt="" src="vuesax/linear/filter.svg">
+        				<img class="vuesaxlinearfilter-icon" alt="" src="img/filter.png">
         				
       			</div>
-      			<img class="image-106-icon" alt="" src="image 106.png">
+      			<img class="image-106-icon" alt="" src="img/EcoTrade.png">
       			
       			<div class="profil-notification">
         				<img class="notification-icon" alt="" src="Notification.svg">
