@@ -17,7 +17,7 @@
                     <div class="rectangle-3"></div>
                     <div class="text-wrapper-3">Login with Google</div>
                     <div class="text-wrapper-4">or</div>
-                    <img class="google-g-logo" src="img/google-g-logo-1.png" />
+                    <img class="google-g-logo" src="img/google.png" />
                     <img class="line" src="img/line-5.svg" />
                     <img class="img" src="img/line-6.svg" />
                     <div class="group">
