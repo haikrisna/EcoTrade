@@ -4,7 +4,7 @@
   	<meta charset="utf-8">
   	<meta name="viewport" content="initial-scale=1, width=device-width">
   	
-  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet"  href="css/pesananmasukvendor.css" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@500;600;700&display=swap" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap" />
