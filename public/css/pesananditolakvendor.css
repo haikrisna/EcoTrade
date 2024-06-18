@@ -1,0 +1,986 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+    width: 1940px;;
+    height: 1024px;;
+}
+
+.popup-overlay {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    inset: 0;
+}
+
+.active-icon {
+    position: absolute;
+    top: 141.5px;
+    left: 16px;
+    border-radius: 10px;
+    width: 254px;
+    height: 56px;
+}
+.m-a-i {
+    width: 88px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    height: 16px;
+    flex-shrink: 0;
+}
+.home-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.dashboard1 {
+    width: 96px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    cursor: pointer;
+}
+.pesanan {
+    width: 80px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.house {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    color: #fff;
+}
+.statistik {
+    width: 70px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.dompet {
+    width: 92px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.riwayat-transaksi {
+    width: 162px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.main-menu1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    font-size: 16px;
+    color: #90a3bf;
+    font-family: Outfit;
+}
+.main-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 42px;
+}
+.p-r-e {
+    width: 112px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    height: 16px;
+    flex-shrink: 0;
+}
+.settings1 {
+    width: 72px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.preferences1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #90a3bf;
+    font-family: Outfit;
+}
+.preferences {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 28px;
+}
+.side-menu {
+    position: absolute;
+    top: 36px;
+    left: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 60px;
+}
+.log-out {
+    width: 68px;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.logout {
+    position: absolute;
+    top: 824px;
+    left: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 16px;
+    color: #90a3bf;
+    font-family: Outfit;
+}
+.nav-bar {
+    position: absolute;
+    top: 124px;
+    left: 0px;
+    background-color: #fff;
+    border-right: 1px solid #f3f5f7;
+    box-sizing: border-box;
+    width: 286px;
+    height: 900px;
+    overflow: hidden;
+    text-align: justify;
+    font-size: 12px;
+    color: rgba(148, 167, 203, 0.4);
+}
+.map-maker-sekaran-50229-gun {
+    position: absolute;
+    top: 146px;
+    left: 36.22px;
+    border-radius: 20px;
+    width: 239.2px;
+    height: 258px;
+    object-fit: cover;
+}
+.jenis-limbah {
+    width: 78px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 49px;
+    flex-shrink: 0;
+}
+.type {
+    position: absolute;
+    top: 136px;
+    left: 322.14px;
+    width: 104.8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.group-child {
+    position: absolute;
+    top: 4px;
+    left: 170.6px;
+    border-radius: 1px;
+    width: 18.9px;
+    height: 20px;
+}
+.zoey-glenca {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 149.6px;
+    height: 24px;
+}
+.div {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 24.8px;
+    height: 24px;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 44.69px;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 49.8px;
+    height: 23.5px;
+}
+.group-item {
+    position: absolute;
+    top: 6px;
+    left: 68.62px;
+    width: 9.5px;
+    height: 11.8px;
+    object-fit: cover;
+}
+.parent {
+    position: absolute;
+    top: 1px;
+    left: 147.73px;
+    width: 94.5px;
+    height: 25px;
+    font-size: 16px;
+    color: #90a3bf;
+}
+.zoey-glenca-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 242.3px;
+    height: 26px;
+}
+.star-parent {
+    position: absolute;
+    top: 65px;
+    left: 143.92px;
+    width: 242.3px;
+    height: 26px;
+    font-size: 25px;
+    color: #1a202c;
+}
+.alamat {
+    width: 71px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 20px;
+    flex-shrink: 0;
+}
+.type1 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.jl-gajah-raya {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 204.9px;
+    height: 23px;
+}
+.jl-gajah-raya-no-7-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 128.99px;
+    width: 204.9px;
+    height: 23px;
+    color: #1a202c;
+}
+.type-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 333.9px;
+    height: 23px;
+}
+.kec-semarang-timur {
+    width: 271px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 20px;
+    flex-shrink: 0;
+}
+.type2 {
+    position: absolute;
+    top: 25px;
+    left: 128.99px;
+    width: 260.9px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 12px;
+}
+.group-container {
+    position: absolute;
+    top: 198px;
+    left: 322.14px;
+    width: 389.9px;
+    height: 49px;
+}
+.waktu-pick-up {
+    width: 82px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 49px;
+    flex-shrink: 0;
+}
+.type3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.wib {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 98.2px;
+    height: 23px;
+}
+.wib-wrapper {
+    position: absolute;
+    top: 13px;
+    left: 127.71px;
+    width: 98.2px;
+    height: 23px;
+    color: #1a202c;
+}
+.type-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 225.9px;
+    height: 49px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 257px;
+    left: 322.14px;
+    width: 225.9px;
+    height: 49px;
+}
+.keterangan {
+    width: 109px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 49px;
+    flex-shrink: 0;
+}
+.kotoran-kambing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 160.1px;
+    height: 23px;
+}
+.kotoran-kambing-wrapper {
+    position: absolute;
+    top: 13px;
+    left: 129.62px;
+    width: 160.1px;
+    height: 23px;
+    color: #1a202c;
+}
+.type-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 289.7px;
+    height: 49px;
+}
+.group-frame {
+    position: absolute;
+    top: 317px;
+    left: 322.14px;
+    width: 289.7px;
+    height: 49px;
+}
+.rp100000 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 160.1px;
+    height: 24px;
+}
+.rp100000-wrapper {
+    position: absolute;
+    top: 13px;
+    left: 129.62px;
+    width: 160.1px;
+    height: 24px;
+    color: #1a202c;
+}
+.group-div {
+    position: absolute;
+    top: 373px;
+    left: 322.14px;
+    width: 289.7px;
+    height: 49px;
+}
+.metode-pembayaran {
+    width: 119px;
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    height: 49px;
+    flex-shrink: 0;
+}
+.gopay {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 65.8px;
+    height: 24px;
+}
+.image-3-icon {
+    position: absolute;
+    top: 0px;
+    left: 65.76px;
+    width: 33.4px;
+    height: 35px;
+    object-fit: cover;
+}
+.gopay-parent {
+    position: absolute;
+    top: 7px;
+    left: 129.62px;
+    width: 99.1px;
+    height: 35px;
+    color: #1a202c;
+}
+.type-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 228.7px;
+    height: 49px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 433px;
+    left: 322.14px;
+    width: 228.7px;
+    height: 49px;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px;
+    border: 1px solid #a5a49a;
+    box-sizing: border-box;
+    width: 772px;
+    height: 601px;
+}
+.kotoran-ternak {
+    position: absolute;
+    top: 146px;
+    left: 449.86px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    color: #1a202c;
+    align-items: center;
+    width: 168.7px;
+    height: 20px;
+}
+.user-03c-icon {
+    position: absolute;
+    top: 40px;
+    left: 37.17px;
+    border-radius: 100px;
+    width: 76.2px;
+    height: 80px;
+    overflow: hidden;
+}
+.toyota-fortuner {
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 100.9px;
+    height: 24px;
+}
+.group-icon {
+    position: absolute;
+    height: 100%;
+    width: 30.13%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 0%;
+    left: 69.83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.toyota-fortuner-parent {
+    position: absolute;
+    top: 424px;
+    left: 101.03px;
+    width: 111.5px;
+    height: 33.7px;
+    font-size: 18px;
+    color: #7e8085;
+}
+.map-maker-sekaran-50229-gun-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 772px;
+    height: 601px;
+}
+.alasan {
+    position: absolute;
+    top: 504px;
+    left: 38px;
+    letter-spacing: -0.02em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 216px;
+    height: 49px;
+}
+.supir-sedang-sibuk {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    width: 255px;
+    height: 23px;
+}
+.supir-sedang-sibuk-wrapper {
+    position: absolute;
+    top: 517px;
+    left: 188px;
+    width: 255px;
+    height: 23px;
+    color: #1a202c;
+}
+.group-parent {
+    position: absolute;
+    top: 280px;
+    left: 317px;
+    width: 772px;
+    height: 601px;
+    text-align: left;
+    color: #90a3bf;
+}
+.pesanan-ditolak-vendor-child {
+    position: absolute;
+    top: 231.5px;
+    left: 314.5px;
+    border-top: 5px solid #d7d6cb;
+    box-sizing: border-box;
+    width: 1574px;
+    height: 5px;
+}
+.pesanan-masuk {
+    position: absolute;
+    top: 187px;
+    left: calc(50% - 576px);
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 213px;
+    height: 24px;
+    cursor: pointer;
+}
+.pesanan-ditolak-vendor-item {
+    position: absolute;
+    top: 163px;
+    left: 1095px;
+    border-radius: 25px 25px 0px 0px;
+    border-top: 2px solid #1e8c45;
+    border-right: 2px solid #1e8c45;
+    border-left: 2px solid #1e8c45;
+    box-sizing: border-box;
+    width: 388.5px;
+    height: 66px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background-color: #a5a49a;
+    width: 38px;
+    height: 25px;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34.8px;
+    height: 22.4px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 189px;
+    left: 608px;
+    width: 38px;
+    height: 25px;
+    color: #fff;
+    font-family: Manrope;
+}
+.dalam-proses {
+    position: absolute;
+    top: 175px;
+    left: calc(50% - 174px);
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    font-weight: 600;
+    cursor: pointer;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background-color: #a5a49a;
+    width: 33px;
+    height: 25px;
+}
+.div3 {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30.2px;
+    height: 22.4px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 187px;
+    left: 979px;
+    width: 33px;
+    height: 25px;
+    color: #fff;
+    font-family: Manrope;
+}
+.ditolak {
+    position: absolute;
+    top: 187px;
+    left: calc(50% + 259px);
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    display: flex;
+    color: #1e8c45;
+    align-items: center;
+    justify-content: center;
+    width: 103px;
+    height: 24px;
+}
+.riwayat-pesanan {
+    position: absolute;
+    top: 177px;
+    left: calc(50% + 600px);
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    line-height: 150%;
+    font-weight: 600;
+    cursor: pointer;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background-color: #1e8c45;
+    width: 35px;
+    height: 25px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 187px;
+    left: 1326px;
+    width: 35px;
+    height: 25px;
+    color: #fff;
+    font-family: Manrope;
+}
+.button {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 70px;
+    background-color: #fff;
+    border: 1px solid rgba(195, 212, 233, 0.4);
+    box-sizing: border-box;
+    width: 492px;
+    height: 44px;
+}
+.search-something-here {
+    position: absolute;
+    top: 12px;
+    left: 64px;
+    letter-spacing: -0.02em;
+    line-height: 150%;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 149px;
+    height: 20px;
+}
+.search-normal-icon {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 24px;
+    height: 24px;
+}
+.vuesaxlinearfilter-icon {
+    position: absolute;
+    top: 10px;
+    left: 448px;
+    width: 24px;
+    height: 24px;
+}
+.search {
+    position: absolute;
+    top: 40px;
+    left: 875px;
+    width: 492px;
+    height: 44px;
+}
+.image-106-icon {
+    position: absolute;
+    top: 28px;
+    left: 49px;
+    width: 200px;
+    height: 63.3px;
+    object-fit: cover;
+}
+.notification-icon {
+    width: 44px;
+    position: relative;
+    height: 44px;
+}
+.profil-notification {
+    position: absolute;
+    top: 40px;
+    left: 1788px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.nav-bar-top {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border: 1px solid rgba(195, 212, 233, 0.4);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 124px;
+    overflow: hidden;
+    text-align: justify;
+    font-size: 14px;
+    color: #3d5278;
+}
+.pesanan-ditolak-vendor {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #a5a49a;
+    font-family: 'Plus Jakarta Sans';
+}
+
+
+.anda-yakin-ingin {
+    position: absolute;
+    top: 29px;
+    left: 46px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 216px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    border: 1px solid #1e8c45;
+    box-sizing: border-box;
+    width: 120px;
+    height: 55px;
+}
+.yes {
+    position: absolute;
+    top: 9px;
+    left: 38px;
+    font-weight: 600;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 118px;
+    left: 158px;
+    width: 120px;
+    height: 55px;
+    cursor: pointer;
+    color: #1e8c45;
+}
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #1e8c45;
+    width: 120px;
+    height: 55px;
+}
+.no {
+    position: absolute;
+    top: 9px;
+    left: 43px;
+    font-weight: 600;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 118px;
+    left: 29px;
+    width: 120px;
+    height: 55px;
+    cursor: pointer;
+    color: #fff;
+}
+.logout-confirm {
+    width: 307px;
+    position: relative;
+    border-radius: 15px;
+    background-color: #fff;
+    height: 202px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: 24px;
+    color: #453d3d;
+    font-family: Poppins;
+}
+
